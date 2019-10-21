@@ -1,5 +1,5 @@
 # ttt\_voice\_sync
-Synchronizing your voice state with TTT server.
+Synchronizing your voice state between TTT server and TS3.
 
 # What is this?
 If you play TTT and using TS3, you can use this tool to sync death state to TS3. If set up, the players only need to set their name on TS same as ingame. No longer someone screams in TS after dead.
