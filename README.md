@@ -72,6 +72,9 @@ java -jar ttt_voice_sync.jar \
 1. Set your name in Teamspeak the same as ingame, you are done.
 2. If the round is over, but still someone is dead, enter the chat `!reset` if the tool is ok, it will set all alive and write in the channel.
 
+# Questions?
+Write me on github. Btw I have no clue why this multi stage build is that big, will be next.
+
 # Credits
 * (koraktor github.com)[https://github.com/koraktor/steam-condenser-java]
 * (TheHolyWaffle github.com)[https://github.com/TheHolyWaffle/TeamSpeak-3-Java-API]
