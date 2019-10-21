@@ -70,7 +70,7 @@ java -jar ttt_voice_sync.jar \
 
 ## How to use ingame
 1. Set your name in Teamspeak the same as ingame, you are done.
-2. If the round is over, but still someone is dead, enter the chat `!reset` if the tool is ok, it will set all alive and write in the channel.
+2. If the round is over, but still someone is dead, write in the teamspeak channel chat `!reset` if the tool is ok, it will set all alive and write in the channel.
 
 # Questions?
 Write me on github. Btw I have no clue why this multi stage build is that big, will be next.
