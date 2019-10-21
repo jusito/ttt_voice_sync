@@ -1,0 +1,5 @@
+target/
+.gitignore
+LICENSE
+README.md
+bin/
